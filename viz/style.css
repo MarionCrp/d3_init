@@ -1,0 +1,21 @@
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.dead {
+  fill-opacity: 0.3;
+}
+
+.alive {
+  fill-opacity: 1;
+}
+
+.female {
+  fill: #761F25;
+}
+
+.male {
+  fill: #1C303D;
+}
